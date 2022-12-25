@@ -252,7 +252,7 @@ document.addEventListener('keydown', function (event) {
     event.preventDefault();
     calculator.clear()
     calculator.updateDisplay()
-  }
+   }
 
 });
 
